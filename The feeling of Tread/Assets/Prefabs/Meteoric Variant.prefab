@@ -60,6 +60,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8334718297139616649, guid: 26bc6f410758be345be00b599f9de89a, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 0446aac73fadc984095901338b8ca3dd, type: 2}
     - target: {fileID: 9138411277187691613, guid: 26bc6f410758be345be00b599f9de89a, type: 3}
       propertyPath: m_Name
       value: Meteoric Variant
