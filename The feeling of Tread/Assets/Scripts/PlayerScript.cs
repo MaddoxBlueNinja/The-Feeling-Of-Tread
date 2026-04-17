@@ -11,8 +11,8 @@ public class PlayerScript : MonoBehaviour
     float ReloadTime = 0f;
     public Transform player;
     float burnstuff = 0f;
-    float unstunstage = 5f;
-    float burned = 3f;
+    public float unstunstage = 5f;
+    public float burned = 3f;
     public bool stunned = false;
    // float cameraVerticalRotation = 0f;
     // float horizontalMove;
